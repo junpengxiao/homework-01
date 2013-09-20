@@ -1,0 +1,5 @@
+The whole project was made by tonyshaw,buaa. To use this program, you need have a test file, which should be formated as number1 number2 number3... Here is an example:
+D:\text.txt:  1 2 3 4 5 6
+homework01.txt D:\test.txt
+output should be 21
+The program will tell you the maxi-sum of a subsequeen. If the file is empty or can not be read, the program will print -9E18.
