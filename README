@@ -2,4 +2,4 @@ The whole project was made by tonyshaw,buaa. To use this program, you need to ha
 D:\text.txt:  1 2 3 4 5 6
 In CMD: homework01.exe D:\test.txt
 output should be 21
-The program will print the maxi-sum of a subsequeen. If the file is empty or can not be read, the program will print -9E18.
+The program will print the maxi-sum of a subsequeen. If the file is empty or can not be read, the program will print -9E18...
